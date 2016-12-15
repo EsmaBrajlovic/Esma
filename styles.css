@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #d9d9d9;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: calibri;
+    font-size: 40px;
+}
+
+h3 {
+    font-family:verdana;
+    font-size:35px;
+    color:black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
